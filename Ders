@@ -1,0 +1,46 @@
+GitHub , çekirdeğinde dağıtılmış bir sürüm denetim sistemi olan Git'i kullanan bulut tabanlı bir platformdur. GitHub platformu, projeler üzerinde işbirliği yapma sürecini basitleştirir ve geliştiricilerin ve kullanıcıların birlikte çalışmasını sağlayan bir web sitesi, komut satırı araçları ve genel akış sağlar.
+
+Daha önce öğrendiğimiz gibi GitHub, güvenli yazılım oluşturmak, ölçeklendirmek ve sunmak için yapay zeka destekli bir geliştirici platformu sağlar. GitHub Enterprise platformu, Yapay Zeka, İşbirliği, Üretkenlik, Güvenlik ve Ölçek'in temel yapılarından her birini ayıralım.
+
+AI
+Üretken yapay zeka, biz konuşurken yazılım geliştirmeyi önemli ölçüde dönüştürüyor. GitHub Enterprise platformu yapay zeka destekli çekme istekleri ve sorunlarıyla işbirliğini, Copilot aracılığıyla üretkenliği ve güvenlik denetimlerini daha hızlı otomatikleştirerek güvenliği geliştirmektedir.
+
+İşbirliği
+gitHub'ın yaptığı her şeyin temelinde işbirliği yer alır. Verimsiz işbirliğinin zaman ve para kaybına neden olduğunu biliyoruz. İşbirliğinin zahmetsizce gerçekleşmesine olanak sağlayan sorunsuz araçlar paketiyle buna karşı çıkarız.
+
+Depolar, Sorunlar, Çekme İstekleri ve diğer araçlar geliştiricilerin, proje yöneticilerinin, operasyon liderlerinin ve diğer kişilerin aynı şirkette çalışmasına yardımcı olur. Birlikte daha hızlı çalışmalarına, onay sürelerini azaltmalarına ve daha hızlı göndermelerine olanak tanır.
+
+Üretkenlik
+GitHub Enterprise Platform'un sağladığı otomasyon sayesinde üretkenlik hızlandırılır. Yerleşik CI/CD (Sürekli Tümleştirme ve Sürekli Teslim) araçlarıyla doğrudan iş akışına entegre olan platform, kullanıcılara görevleri ayarlama ve unutma, rutin yönetimle ilgilenme ve günlük işleri hızlandırma olanağı sağlar. Bu, geliştiricilerinize en önemli konulara odaklanmaları ve yenilikçi çözümler oluşturmaları için daha fazla zaman sağlar.
+
+Güvenlik
+GitHub, başlangıçtan itibaren güvenliği doğrudan geliştirme süreciyle tümleştirmeye odaklanır. GitHub Enterprise platformu, yerleşik bir güvenlik çözümüyle güvenlik riskini en aza indiren yerel, birinci taraf güvenlik özellikleri içerir. Ayrıca kodunuz kuruluşunuzun içinde gizli kalır. Aynı zamanda, güvenliğe genel bakış ve Dependabot'un avantajlarından da yararlanabilirsiniz.
+
+GitHub, özelliklerimizin kurumsal kullanıma hazır olduğundan emin olmak için yatırım yapmaya devam etti. Microsoft ve yüksek düzeyde düzenlenmiş sektörler GitHub'a güvenir ve genel uyumluluk gereksinimlerini karşılarız.
+
+Ölçek
+GitHub, 100 milyondan fazla geliştirici, 330 milyondan fazla depo ve sayısız dağıtıma ilişkin gerçek zamanlı verilerle türünün en büyük geliştirici topluluğudur. Geliştiricilerin değişen ihtiyaçlarını anlayabiliyor ve ürünümüzde eşleşecek değişiklikler yapabiliyoruz.
+
+Bu, gezegendeki diğer şirketler tarafından eşsiz ve benzersiz bir ölçeğe dönüştü. Her gün bu etkileyici topluluktan daha fazla içgörü elde ediyoruz ve platformu ihtiyaçlarını karşılayacak şekilde geliştiriyoruz.
+
+Özünde GitHub Enterprise Platform, geliştirici deneyimine odaklanır. Endüstride değişen içgörüler, dönüşümsel verimlilik için işbirliği özellikleri, artan üretkenlik araçları, her adımda güvenlik ve yapay zekayı tek ve tümleşik bir platformda yeni yüksekliklere yükseltmek için gereken ölçeğe sahiptir.
+
+Şimdi GitHub'ın, depoların omurgasına girelim.
+
+Depolara giriş
+İlk olarak şunu gözden geçirelim:
+
+Depo nedir?
+Depo oluşturma
+Depoya dosya ekleme
+Depoları arama
+Gists, wiki ve GitHub sayfalarına giriş
+Depo nedir?
+Depo, projenizin tüm dosyalarını ve her dosyanın düzeltme geçmişini içerir. İnsanlarla işbirliği yapma konusunda size yardımcı olan temel parçalardan biridir. Çalışmanızı yönetmek, değişiklikleri izlemek, düzeltme geçmişini depolamak ve başkalarıyla çalışmak için depoları kullanabilirsiniz. Çok derine inmeden önce bir deponun nasıl oluşturulacağıyla başlayalım.
+
+Depo oluşturma
+Kişisel hesabınızda veya yeterli izinlere sahip olduğunuz herhangi bir kuruluşta yeni bir depo oluşturabilirsiniz.
+
+şimdi github.com'dan bir depo oluşturmanın üstesinden gelelim.
+
+Herhangi bir sayfanın sağ üst köşesindeki açılan menüyü kullanın ve Yeni depo'yu seçin.
